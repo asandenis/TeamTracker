@@ -77,7 +77,7 @@ npm install react-scripts
 <pre>
 <code>
 cd server
-ndoe server.js
+node server.js
 </code>
 </pre>
 
