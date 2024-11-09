@@ -95,5 +95,5 @@ npm start
 <p>This project is licensed under the MIT License.</p>
 
 <p align="left" style="color: #888; font-size: 12px;">
-  © 2024 Asan Denis-Claudiu, Andrieș Victor-Mihai, Ariton Alexandru - All Rights Reserved
+  © 2023 Asan Denis-Claudiu, Andrieș Victor-Mihai, Ariton Alexandru - All Rights Reserved
 </p>
