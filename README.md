@@ -3,7 +3,7 @@
 <h3 style="color: #555;">Task Management Platform.</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/hseAWhN.png" width="500" alt="TeamTracker Logo">
+  <img src="https://i.imgur.com/hseAWhN.png" width="400" alt="TeamTracker Logo">
 </p>
 
 <p align="center">
